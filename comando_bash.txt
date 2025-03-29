@@ -1,4 +1,6 @@
-ls  - lista arquivos
-cd  - move entre diretórios
-pwd - mostra o diretório de trabalho
-cat - mostra o que tem no arquivo
+ls  -> lista arquivos
+ls -a -> lista arquivos ocultos
+cd  -> move entre diretórios
+pwd -> mostra o diretório de trabalho
+cat -> exibe conteúdo do arquivo
+rm -rf "nome" -> remove arquivo ou pasta (diretório)
