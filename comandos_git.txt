@@ -6,6 +6,8 @@ git log -> mosta todo o histórico de commits
 git diff -> exibe as alterações após o ultimo save
 git checkout -b -> cria uma nova branch
 git checkout "nome da branch" -> alterna entre as branchs
+git branch -> exibe a branch atual
+git merge "nome branch"-> mescla as branchs no mesmo save 
 
 ## FLUXO DE TRABALHO
 
