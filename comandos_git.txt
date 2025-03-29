@@ -4,6 +4,8 @@ git add -> nome_arquivo -> adiciona arquivo para ser commitado
 git commit -m "msg" -> faz o commit que estava para ser commitado 
 git log -> mosta todo o histórico de commits 
 git diff -> exibe as alterações após o ultimo save
+git checkout -b -> cria uma nova branch
+git checkout "nome da branch" -> alterna entre as branchs
 
 ## FLUXO DE TRABALHO
 
