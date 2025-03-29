@@ -1,1 +1,3 @@
-esse arquivo contem comandos git secundarios
+esse arquivo contem comandos git secundários
+- primeiro comando 
+- segundo comando
