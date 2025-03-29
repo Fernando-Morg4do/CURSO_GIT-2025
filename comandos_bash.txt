@@ -3,4 +3,5 @@ ls -a -> lista arquivos ocultos
 cd  -> move entre diretórios
 pwd -> mostra o diretório de trabalho
 cat -> exibe conteúdo do arquivo
-rm -rf "nome" -> remove arquivo ou pasta (diretório)
+rm -> remove arquivo ou pasta (diretório)
+rm -rf -> remove de forma recursiva e forçada todos os diretórios
