@@ -8,6 +8,8 @@ git checkout -b -> cria uma nova branch
 git checkout "nome da branch" -> alterna entre as branchs
 git branch -> exibe a branch atual
 git merge "nome branch"-> mescla as branchs no mesmo save 
+git push origin <nome da branch> atualiza o GitHub com os arquivos locais
+git pull origin <nome da branch> atualiza a branch com os arquivos remotos 
 
 ## FLUXO DE TRABALHO
 
