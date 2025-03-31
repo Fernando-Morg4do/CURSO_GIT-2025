@@ -6,8 +6,5 @@ esse arquivo contem comandos git secundários
 - comandos estranhos 
 
 # Mais comandos !!!
-injddb djfj kfk
-n vwjo o owj  kd
-mkçnanja kv kv jrça
-
-
+Comandos adicionais serão necessarios caso o aluno deseje se aprofundar mais.
+Alterntivas como o GitHUb Desktop tambem podererão ser utilizadas
